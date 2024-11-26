@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.1">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="6456" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5759" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="uUPJHFzAYMxNlcOr0IJL-95" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="uUPJHFzAYMxNlcOr0IJL-48">
           <mxGeometry x="155" y="1580" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUPJHFzAYMxNlcOr0IJL-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=0.816;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="uUPJHFzAYMxNlcOr0IJL-48" source="uUPJHFzAYMxNlcOr0IJL-54" target="uUPJHFzAYMxNlcOr0IJL-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uUPJHFzAYMxNlcOr0IJL-57" value="Personal Administrativo" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="uUPJHFzAYMxNlcOr0IJL-96">
           <mxGeometry x="810" y="20" width="340" height="1610" as="geometry" />
